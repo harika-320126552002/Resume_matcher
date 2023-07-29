@@ -7,9 +7,11 @@ Project Title: Resumer
 Project Website:
 
 https://minnikeswar-resumer-app-rbjb74.streamlit.app/
+
 WireFrame(Figma):
 
 (https://www.figma.com/file/NHh81Vkre0VE8LWD36txRu/Untitled?type=design&node-id=0%3A1&t=h3wUnKTioELSe2g3-1)
+
 Presentation:
 
 https://my.visme.co/view/8roxd0vm-untitled-project
